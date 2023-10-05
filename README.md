@@ -2,7 +2,7 @@
 
 # Introduction:
 
-This dataset is a collection of travel booking data that represents the transactions and details associated with bookings made through various famous traveling platform. This dataset contains information about travelers, destinations, types of hotels, booking platforms, and more. However, the dataset is uncleaned, meaning that it may contain inconsistencies, missing values, and duplicate records that need to be addressed before conducting a meaningful analysis.
+This dataset is a collection of dummy travel booking data generated with the help of ChatGPT and faker python library that represents the transactions and details associated with bookings made through various famous traveling platform. This dataset contains information about travelers, destinations, types of hotels, booking platforms, and more. However, the dataset is uncleaned, meaning that it may contain inconsistencies, missing values, and duplicate records that need to be addressed before conducting a meaningful analysis.
 
 # Objective:
 
