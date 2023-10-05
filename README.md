@@ -1,4 +1,4 @@
-# Travelers-data-anlysis-with-SQL-Server-and-Power-BI
+# Travelers-data-analysis-with-SQL-Server-and-Power-BI
 
 # Introduction:
 
