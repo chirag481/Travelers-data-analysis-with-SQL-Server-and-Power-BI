@@ -1,12 +1,12 @@
 # Travelers-data-anlysis-with-SQL-Server-and-Power-BI
 
-#Introduction:
+# Introduction:
 
 This dataset is a collection of travel booking data that represents the transactions and details associated with bookings made through various famous traveling platform. This dataset contains information about travelers, destinations, types of hotels, booking platforms, and more. However, the dataset is uncleaned, meaning that it may contain inconsistencies, missing values, and duplicate records that need to be addressed before conducting a meaningful analysis.
 
-#Objective:
+# Objective:
 
-The primary objective of this analysis project is to transform and clean the data, making it suitable for analysis, and then perform insightful analytics to extract valuable information and answer important business questions. Here are the specific objectives of the project:
+The primary objective of this analysis project is to transform and clean the data, making it suitable for analysis, and then perform insightful analytics to extract valuable information and answer important business questions with help of SQL Server and Power BI. Here are the specific objectives of the project:
 1.	Data Cleaning and Preprocessing:
 •	Identify and handle missing data: Determine how to deal with missing values in various columns, whether through imputation or removal.
 •	Handle duplicates: Detect and remove duplicate records, ensuring data integrity.
@@ -28,9 +28,6 @@ The primary objective of this analysis project is to transform and clean the dat
 •	Compare booking platforms: Assess how different platforms compare in terms of revenue and booking counts.
 6.	Time Series Analysis:
 •	Analyze booking trends over time: Explore how booking counts and revenue have changed over the years 
-•	Seasonal analysis: Identify seasonal patterns in travel bookings and revenue.
-7.	Advanced Analytics: (Optional)
-•	Implement advanced analytics techniques, such as predictive modeling or clustering, to gain deeper insights into traveler behavior and preferences.
 8.	Visualization and Reporting:
 •	Create visualizations: Develop charts, graphs, and dashboards to visualize key insights and findings.
 By successfully achieving these objectives, the project aims to provide valuable insights that can inform business decisions, marketing strategies, and improvements in the travel agency's operations. Additionally, it will demonstrate the importance of data cleaning and analysis in extracting actionable insights from raw, uncleaned data.
